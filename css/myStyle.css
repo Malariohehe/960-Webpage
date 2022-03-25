@@ -1,12 +1,11 @@
 body
 {
-	background-color: black;
-	background-image: url(images/fabric.jfif);
+	background-color: #161423;
 }
 
 h1
 {
-	color:#992700;
+	color: #27257E;
 	font-family: "Arial";
 	border: double medium ;
 	padding: 15px 10px 15px;
@@ -16,7 +15,7 @@ h1
 
 h2
 {
-	color:#992700;
+	color: #27257E;
 	font-family: "Arial";
 	border: solid thin;
 	padding: 15px 10px 15px;
@@ -27,7 +26,7 @@ h2
 header
 {
 	height: 100px;
-	color:#992700;
+	color: grey;
 	font-family: "Arial";
 	border: solid thin;
 }
@@ -35,7 +34,7 @@ header
 aside
 {
 	height: 600px;
-	color:#992700;
+	color:grey;
 	font-family: "Arial";
 	border: solid thin;
 }
@@ -43,7 +42,7 @@ aside
 section
 {
 	height: 600px;
-	color:#992700;
+	color: grey;
 	font-family: "Arial";
 	border: solid thin;
 }
@@ -51,14 +50,14 @@ section
 footer 
 {
 	height: 100px;
-	color:#992700;
+	color: grey;
 	font-family: "Arial";
 	border: solid thin;
 }
 
 .container_12
 {
-
+	background-color: #161423;
 }
  
 .red
